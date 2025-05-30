@@ -1,0 +1,19 @@
+{
+    "chainId": "ithaca-1",
+    "chain_name": "odiseo-testnet",
+    "api": ["https://api.odiseo.nodeonline.xyz"],
+    "rpc": ["https://rpc.odiseo.nodeonline.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "0.50.8",
+    "coinType": "118",
+    "min_tx_fee": "500",
+    "logo": "https://xplorer.vinjan.xyz/logos/odiseo.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "uodis",
+        "symbol": "ODIS",
+        "exponent": "6",
+        "coingecko_id": "unknown",
+        "logo": "https://xplorer.vinjan.xyz/logos/odiseo.png"
+    }]
+}
