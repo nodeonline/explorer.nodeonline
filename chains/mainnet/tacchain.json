@@ -1,8 +1,8 @@
 {
     "chainId": "tacchain_2391-1",
     "chain_name": "tacchain-testnet",
-    "api": ["api.tac.nodeonline.xyz"],
-    "rpc": ["rpc.tac.nodeonline.xyz"],
+    "api": ["https://api.tac.nodeonline.xyz"],
+    "rpc": ["https://rpc.tac.nodeonline.xyz"],
     "snapshot_provider": "",
     "sdk_version": "0.50.8",
     "coinType": "60",
