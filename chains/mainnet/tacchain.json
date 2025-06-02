@@ -1,0 +1,19 @@
+{
+    "chainId": "tacchain_2391-1",
+    "chain_name": "tacchain-testnet",
+    "api": ["api.tac.nodeonline.xyz"],
+    "rpc": ["rpc.tac.nodeonline.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "0.50.8",
+    "coinType": "60",
+    "min_tx_fee": "500",
+    "logo": "https://xplorer.vinjan.xyz/logos/tacchain.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "utac",
+        "symbol": "TAC",
+        "exponent": "6",
+        "coingecko_id": "unknown",
+        "logo": "https://xplorer.vinjan.xyz/logos/tacchain.png"
+    }]
+}
